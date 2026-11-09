@@ -1,0 +1,20 @@
+{
+  "modelo": "DummyClassifier",
+  "timestamp": "2026-11-07T16:52:20",
+  "f1_macro_treino": 0.09561026442620817,
+  "f1_weighted_treino": 0.2307219750865867,
+  "bal_acc_treino": 0.16666666666666666,
+  "acuracia_treino": 0.4021917808219178,
+  "top2_treino": 0.6594520547945205,
+  "f1_macro_val": 0.08466104342393004,
+  "f1_weighted_val": 0.17293826206948523,
+  "bal_acc_val": 0.16666666666666666,
+  "acuracia_val": 0.34045226130653267,
+  "top2_val": 0.5678391959798995,
+  "f1_macro_teste": 0.09673554956573825,
+  "f1_weighted_teste": 0.2373082215929123,
+  "bal_acc_teste": 0.16666666666666666,
+  "acuracia_teste": 0.4088607594936709,
+  "top2_teste": 0.6518987341772152,
+  "tempo_treino_s": 0.06
+}

@@ -1,0 +1,33 @@
+# Configuracao central do pipeline
+# Nenhum parametro deve ficar hardcoded nos scripts
+
+projeto:
+  nome: "Analise de causa-raiz em defeitos de placas-mae"
+  versao: "1.0.0"
+
+reprodutibilidade:
+  seed: 42
+
+caminhos:
+  raw: "data/raw/Base da dados-Geral.xlsx"
+  private: "data/private/"
+  working: "data/working/"
+  outputs: "outputs/"
+  dicionario: "data/dictionary.xlsx"
+
+dados:
+  aba: "BASE GERAL_WK01 a WK10"
+  hash_sha256: "772ea1fd6689da71ab312222fe501a9b2e8518acd7be16fc73091d94ade01b63"
+  linhas_esperadas: 5526
+  colunas_esperadas: 63
+
+features:
+  min_ocorrencias: 10
+  max_categorias: 15
+
+analise:
+  alpha: 0.05
+  min_suporte: 0.01
+  min_confianca: 0.30
+  min_lift: 1.2
+  top_n_regras: 20

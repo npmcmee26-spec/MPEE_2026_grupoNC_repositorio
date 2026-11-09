@@ -1,0 +1,8 @@
+variavel,chi2,p_valor,gl,v_cramer,n,significativo,magnitude
+Reason Desc,602.52,1.4149679594921284e-90,60,0.3393,5235,sim,moderado
+Test Station,534.25,1.0106694391449442e-99,21,0.3195,5235,sim,moderado
+Test Group,259.12,2.0012390297334808e-51,8,0.2225,5235,sim,fraco
+Test Line,236.49,1.2560844616264644e-46,8,0.2125,5235,sim,fraco
+loc_tipo,59.62,6.066484743097677e-07,16,0.1067,5235,sim,fraco
+component_tipo,54.51,2.1543078144619964e-06,15,0.102,5235,sim,fraco
+Model Name,46.12,0.0001656221985527024,17,0.0939,5235,sim,desprezivel

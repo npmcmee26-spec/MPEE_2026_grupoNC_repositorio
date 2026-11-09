@@ -1,0 +1,21 @@
+{
+  "modelo": "HistGradientBoosting",
+  "timestamp": "2026-11-07T16:52:23",
+  "f1_macro_treino": 0.7312430338912086,
+  "f1_weighted_treino": 0.7382370909010886,
+  "bal_acc_treino": 0.7925582164976466,
+  "acuracia_treino": 0.736986301369863,
+  "top2_treino": 0.9005479452054794,
+  "f1_macro_val": 0.43710104592280485,
+  "f1_weighted_val": 0.489890023588699,
+  "bal_acc_val": 0.48279744679490505,
+  "acuracia_val": 0.4886934673366834,
+  "top2_val": 0.6959798994974874,
+  "f1_macro_teste": 0.4134521513151103,
+  "f1_weighted_teste": 0.5174783008529271,
+  "bal_acc_teste": 0.4694314114133998,
+  "acuracia_teste": 0.5379746835443038,
+  "top2_teste": 0.7468354430379747,
+  "tempo_treino_s": 1.43,
+  "n_iter_real": 54
+}

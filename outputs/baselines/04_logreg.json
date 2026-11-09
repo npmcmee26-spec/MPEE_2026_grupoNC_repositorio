@@ -1,0 +1,20 @@
+{
+  "modelo": "LogisticRegression",
+  "timestamp": "2026-11-07T16:52:20",
+  "f1_macro_treino": 0.5167943843421771,
+  "f1_weighted_treino": 0.579007433425794,
+  "bal_acc_treino": 0.6169059525285658,
+  "acuracia_treino": 0.572054794520548,
+  "top2_treino": 0.7956164383561644,
+  "f1_macro_val": 0.4143021350302294,
+  "f1_weighted_val": 0.47420795745740524,
+  "bal_acc_val": 0.5009528944388076,
+  "acuracia_val": 0.47361809045226133,
+  "top2_val": 0.6972361809045227,
+  "f1_macro_teste": 0.3999675561101273,
+  "f1_weighted_teste": 0.5019846360134708,
+  "bal_acc_teste": 0.47577118671910007,
+  "acuracia_teste": 0.5164556962025316,
+  "top2_teste": 0.7151898734177216,
+  "tempo_treino_s": 0.17
+}

@@ -1,0 +1,22 @@
+# ambiente
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# dados brutos e privados (nao redistribuir - dados industriais restritos)
+data/raw/
+data/private/
+
+# modelos binarios grandes (reproduziveis pelos notebooks)
+*.pkl
+*.pt
+
+# execucoes locais de notebook (artefato, nao fonte)
+*_exec.ipynb
+*_executado.ipynb
+
+# dados derivados descrevem processo produtivo industrial
+data/working/
+scripts/_arquivo/
